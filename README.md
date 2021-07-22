@@ -13,7 +13,7 @@
    </p>
    
  
- #  <U><b> ✍To Enter a New Task in the App:</U></b>
+   <U><b> ✍To Enter a New Task in the App:</b></U>
  
     We need to press on the button marked below in the image(the plus button)
     
