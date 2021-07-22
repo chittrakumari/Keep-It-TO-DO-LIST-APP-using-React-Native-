@@ -1,11 +1,9 @@
-# Sample Snack app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# KeepIt is a TO DO LIST App built using React Native where a user can add  new tasks and delete it too.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+ ## The data of the app(i.e the tasks entered by the user) is stored  on  Firebase which is NOSQL Cloud based database and we directly write
+ and read the data from the database. After the read and write operations the state of the App is going to be updated and maintained even after we refresh or close
+ the our App.
+ 
+ 
+ # * <U> ✍To Enter a New Task in the App:</U>
