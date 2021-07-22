@@ -10,5 +10,9 @@
  #  <U> ✍To Enter a New Task in the App:</U>
  
     We need to press on the button marked below in the image(the plus button)
+    
+    <p align="center">
+    <img width="460" height="300" src="https://github.com/chittrakumari/TO-DO-LIST-APP-using-React-Native/blob/main/How%20to%20enter%20a%20new%20Task.jpeg">
+    </p>
  
- ![alt text](https://github.com/chittrakumari/TO-DO-LIST-APP-using-React-Native/blob/main/How%20to%20enter%20a%20new%20Task.jpeg)
+ 
